@@ -13,4 +13,5 @@ The code avaliable in the two notebook files requires
    *   Sklearn
    *   Scipi
    *   Seaborn
+
 All of these dependencies can be installed with a simple pip instillation, requiring no path configuration. 
